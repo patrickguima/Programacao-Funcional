@@ -24,4 +24,4 @@ d - Movimento a direita
 p - Pausar  
 Esc - Sair  
 
-![Screenshot](tela .png)
+![Screenshot](tela.png)
