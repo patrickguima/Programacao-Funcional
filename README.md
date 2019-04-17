@@ -3,7 +3,7 @@ Repositório destinado aos trabalho de PF incluindo um Game desenvolvido em Hask
 
 
 **Trabalho 1**  
-Desenvolver um justificador de texto 
+Desenvolver um justificador de texto   
 Necessario instalar o compilador GHC  
 `ghci`  
 `:l t1.hs`  
