@@ -1,8 +1,8 @@
-# Programa-o-Funcional
+# Programaçao-Funcional
 Repositório destinado aos trabalho de PF incluindo um Game desenvolvido em Haskel
 
 
-**Trabalho 1**
+**Trabalho 1**  
 Desenvolver um justificador de texto  
 
 **GAME**
@@ -14,9 +14,9 @@ Jogo desenvolvido usando Haskel e gloss para os graficos
 
 
 *Instruçoes*  
-a - Movimento a esquerda
-d - Movimento a direita
+a - Movimento a esquerda  
+d - Movimento a direita  
 p - Pausar  
-Esc - Sair
+Esc - Sair  
 
 ![Screenshot](tela.png)
