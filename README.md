@@ -4,7 +4,7 @@ Repositório destinado aos trabalho de PF incluindo um Game desenvolvido em Hask
 
 **Trabalho 1**  
 Desenvolver um justificador de texto 
-Necessario instalar o compilador GHC
+Necessario instalar o compilador GHC  
 `ghci`  
 `:l t1.hs`  
 `putStr( justifica "Este texto deve ser justificado corretamente"`
