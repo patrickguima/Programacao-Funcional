@@ -7,7 +7,7 @@ Desenvolver um justificador de texto
 Necessario instalar o compilador GHC  
 `ghci`  
 `:l t1.hs`  
-`putStr( justifica "Este texto deve ser justificado corretamente"`
+`putStr( justifica "Este texto deve ser justificado corretamente"`)
 
 
 **GAME**
@@ -15,7 +15,10 @@ Necessario instalar o compilador GHC
 Jogo desenvolvido usando Haskel e gloss para os graficos  
 
 **Como Compilar**
-
+Dentro da pasta do game  
+`cabal sandbox init`  
+`cabal install gloss==1.13.*`
+`cabal run`  
 
 
 *Instruçoes*  
