@@ -17,7 +17,7 @@ Jogo desenvolvido usando Haskel e gloss para os graficos
 **Como Compilar**
 Dentro da pasta do game  
 `cabal sandbox init`  
-`cabal install gloss==1.13.*`
+`cabal install gloss==1.13.*`  
 `cabal run`  
 
 
