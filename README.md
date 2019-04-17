@@ -14,14 +14,14 @@ Necessario instalar o compilador GHC
 
 Jogo desenvolvido usando Haskel e gloss para os graficos  
 
-**Como Compilar**
+**Como Compilar**  
 Dentro da pasta do game  
-`cabal sandbox init`  
+`cabal sandbox init`    
 `cabal install gloss==1.13.*`  
 `cabal run`  
 
 
-*Instruçoes*  
+**Instruçoes**  
 a - Movimento a esquerda  
 d - Movimento a direita  
 p - Pausar  
